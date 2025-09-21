@@ -1,0 +1,32 @@
+﻿Сборка начата 22.03.2025 11:55:35.
+Уровень детализации журнала: Normal.     1>Проект "C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\task2.2.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt task2.2.cpp
+         task2.2.cpp
+     1>C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,44): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+     1>C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,44): error C2589: (: недопустимая лексема справа от "::"
+     1>C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,44): error C2059: синтаксическая ошибка: )
+     1>C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,55): error C2059: синтаксическая ошибка: )
+     1>Сборка проекта "C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,44): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+
+
+       "C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,44): error C2589: (: недопустимая лексема справа от "::"
+         C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,44): error C2059: синтаксическая ошибка: )
+         C:\Уник\OAIP\1course2sem\Laba05\task2.2\task2.2.cpp(273,55): error C2059: синтаксическая ошибка: )
+
+    Предупреждений: 1
+    Ошибок: 3
+
+Прошло времени 00:00:01.64

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F282C-EF2C-4F2E-82B2-5A1899DC241E}|dop.3\\dop.3.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.3\\dop.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D6F282C-EF2C-4F2E-82B2-5A1899DC241E}|dop.3\\dop.3.vcxproj|solutionrelative:dop.3\\dop.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A50C71B-6214-4DBB-BE9A-83FFF64BFB72}|dop.2\\dop.2.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.2\\dop.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A50C71B-6214-4DBB-BE9A-83FFF64BFB72}|dop.2\\dop.2.vcxproj|solutionrelative:dop.2\\dop.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CEA781B-D575-4CD2-83FB-9192998EF90D}|dop.1\\dop.1.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.1\\dop.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CEA781B-D575-4CD2-83FB-9192998EF90D}|dop.1\\dop.1.vcxproj|solutionrelative:dop.1\\dop.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1441F31F-1817-4248-B9B1-265DA45AB899}|Laba06\\Laba06.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\Laba06\\Laba06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1441F31F-1817-4248-B9B1-265DA45AB899}|Laba06\\Laba06.vcxproj|solutionrelative:Laba06\\Laba06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dop.3.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.3\\dop.3.cpp",
+              "RelativeDocumentMoniker": "dop.3\\dop.3.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.3\\dop.3.cpp",
+              "RelativeToolTip": "dop.3\\dop.3.cpp",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAAYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T09:11:31.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dop.2.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.2\\dop.2.cpp",
+              "RelativeDocumentMoniker": "dop.2\\dop.2.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.2\\dop.2.cpp",
+              "RelativeToolTip": "dop.2\\dop.2.cpp",
+              "ViewState": "AgIAAPYAAAAAAAAAAADwvxABAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T09:11:15.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dop.1.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.1\\dop.1.cpp",
+              "RelativeDocumentMoniker": "dop.1\\dop.1.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\dop.1\\dop.1.cpp",
+              "RelativeToolTip": "dop.1\\dop.1.cpp",
+              "ViewState": "AgIAAPkAAAAAAAAAAADwvxABAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T17:08:25.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laba06.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\Laba06\\Laba06.cpp",
+              "RelativeDocumentMoniker": "Laba06\\Laba06.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba06\\Laba06\\Laba06.cpp",
+              "RelativeToolTip": "Laba06\\Laba06.cpp",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T08:57:26.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

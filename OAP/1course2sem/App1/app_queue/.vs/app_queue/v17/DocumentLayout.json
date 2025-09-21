@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universety\\OAIP\\1course2sem\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 1\\app_queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F3DD6D-FF2F-41CA-8819-1B2EB2155AD6}|strategies\\strategies.vcxproj|C:\\Universety\\OAIP\\1course2sem\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 1\\app_queue\\strategies\\strategies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9F3DD6D-FF2F-41CA-8819-1B2EB2155AD6}|strategies\\strategies.vcxproj|solutionrelative:strategies\\strategies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28468446-667B-4952-B3CE-74995C18854C}|app_queue\\app_queue.vcxproj|C:\\Universety\\OAIP\\1course2sem\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 1\\app_queue\\app_queue\\app_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28468446-667B-4952-B3CE-74995C18854C}|app_queue\\app_queue.vcxproj|solutionrelative:app_queue\\app_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strategies.cpp",
+              "DocumentMoniker": "C:\\Universety\\OAIP\\1course2sem\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 1\\app_queue\\strategies\\strategies.cpp",
+              "RelativeDocumentMoniker": "strategies\\strategies.cpp",
+              "ToolTip": "C:\\Universety\\OAIP\\1course2sem\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 1\\app_queue\\strategies\\strategies.cpp",
+              "RelativeToolTip": "strategies\\strategies.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAIAwwDsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:30:47.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app_queue.cpp",
+              "DocumentMoniker": "C:\\Universety\\OAIP\\1course2sem\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 1\\app_queue\\app_queue\\app_queue.cpp",
+              "RelativeDocumentMoniker": "app_queue\\app_queue.cpp",
+              "ToolTip": "C:\\Universety\\OAIP\\1course2sem\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 1\\app_queue\\app_queue\\app_queue.cpp",
+              "RelativeToolTip": "app_queue\\app_queue.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T13:39:21.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

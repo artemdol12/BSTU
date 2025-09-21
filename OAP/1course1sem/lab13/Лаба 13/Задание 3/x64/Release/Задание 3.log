@@ -1,0 +1,8 @@
+﻿  Задание 3.cpp
+C:\Уник\OAIP\Дольников Лаб №13\Лаба 13\Задание 3\Задание 3.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Уник\OAIP\Дольников Лаб №13\Лаба 13\Задание 3\Задание 3.cpp(12,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Задание 3.vcxproj -> C:\Уник\OAIP\Дольников Лаб №13\Лаба 13\x64\Release\Задание 3.exe

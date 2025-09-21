@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02EAFC3-515A-4CF6-9D82-EF9A5020A2B5}|9_2zadanie\\9_2zadanie.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\9_2zadanie\\9_2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D02EAFC3-515A-4CF6-9D82-EF9A5020A2B5}|9_2zadanie\\9_2zadanie.vcxproj|solutionrelative:9_2zadanie\\9_2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2B13D1-5781-4FF5-838E-2A2B1A1598C4}|9_1zadanie\\9_1zadanie.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\9_1zadanie\\9_1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A2B13D1-5781-4FF5-838E-2A2B1A1598C4}|9_1zadanie\\9_1zadanie.vcxproj|solutionrelative:9_1zadanie\\9_1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA305F0-2FE1-4193-9B50-13EA7B10ADE7}|7_2zadanie\\7_2zadanie.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\7_2zadanie\\7_2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DA305F0-2FE1-4193-9B50-13EA7B10ADE7}|7_2zadanie\\7_2zadanie.vcxproj|solutionrelative:7_2zadanie\\7_2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C30F938-D5C4-4631-8F79-3B9D981F1772}|7_1zadanie\\7_1zadanie.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\7_1zadanie\\7_1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C30F938-D5C4-4631-8F79-3B9D981F1772}|7_1zadanie\\7_1zadanie.vcxproj|solutionrelative:7_1zadanie\\7_1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F145350-1C4D-46AA-B7B0-36B705DC6363}|5_2zadanie\\5_2zadanie.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\5_2zadanie\\5_2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F145350-1C4D-46AA-B7B0-36B705DC6363}|5_2zadanie\\5_2zadanie.vcxproj|solutionrelative:5_2zadanie\\5_2zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C402798-2DF3-4A5A-A1D7-0D9289FB84A0}|5_1zadanie\\5_1zadanie.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\5_1zadanie\\5_1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C402798-2DF3-4A5A-A1D7-0D9289FB84A0}|5_1zadanie\\5_1zadanie.vcxproj|solutionrelative:5_1zadanie\\5_1zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A070E7C-7D5B-4884-BD34-A5361B3A255F}|2 zadanie\\2 zadanie.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\2 zadanie\\2 zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A070E7C-7D5B-4884-BD34-A5361B3A255F}|2 zadanie\\2 zadanie.vcxproj|solutionrelative:2 zadanie\\2 zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F357EB7-A87E-48CC-8D7A-C6F25E02DBAE}|Laba \u21163\\Laba \u21163.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\Laba \u21163\\Laba \u21163.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F357EB7-A87E-48CC-8D7A-C6F25E02DBAE}|Laba \u21163\\Laba \u21163.vcxproj|solutionrelative:Laba \u21163\\Laba \u21163.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9_2zadanie.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\9_2zadanie\\9_2zadanie.cpp",
+              "RelativeDocumentMoniker": "9_2zadanie\\9_2zadanie.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\9_2zadanie\\9_2zadanie.cpp",
+              "RelativeToolTip": "9_2zadanie\\9_2zadanie.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T08:14:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "9_1zadanie.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\9_1zadanie\\9_1zadanie.cpp",
+              "RelativeDocumentMoniker": "9_1zadanie\\9_1zadanie.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\9_1zadanie\\9_1zadanie.cpp",
+              "RelativeToolTip": "9_1zadanie\\9_1zadanie.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T08:14:20.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "7_2zadanie.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\7_2zadanie\\7_2zadanie.cpp",
+              "RelativeDocumentMoniker": "7_2zadanie\\7_2zadanie.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\7_2zadanie\\7_2zadanie.cpp",
+              "RelativeToolTip": "7_2zadanie\\7_2zadanie.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T08:13:58.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "7_1zadanie.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\7_1zadanie\\7_1zadanie.cpp",
+              "RelativeDocumentMoniker": "7_1zadanie\\7_1zadanie.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\7_1zadanie\\7_1zadanie.cpp",
+              "RelativeToolTip": "7_1zadanie\\7_1zadanie.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T08:13:31.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5_2zadanie.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\5_2zadanie\\5_2zadanie.cpp",
+              "RelativeDocumentMoniker": "5_2zadanie\\5_2zadanie.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\5_2zadanie\\5_2zadanie.cpp",
+              "RelativeToolTip": "5_2zadanie\\5_2zadanie.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T08:13:03.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "5_1zadanie.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\5_1zadanie\\5_1zadanie.cpp",
+              "RelativeDocumentMoniker": "5_1zadanie\\5_1zadanie.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\5_1zadanie\\5_1zadanie.cpp",
+              "RelativeToolTip": "5_1zadanie\\5_1zadanie.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T08:12:35.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2 zadanie.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\2 zadanie\\2 zadanie.cpp",
+              "RelativeDocumentMoniker": "2 zadanie\\2 zadanie.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\2 zadanie\\2 zadanie.cpp",
+              "RelativeToolTip": "2 zadanie\\2 zadanie.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T17:53:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Laba \u21163.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\Laba \u21163\\Laba \u21163.cpp",
+              "RelativeDocumentMoniker": "Laba \u21163\\Laba \u21163.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OAIP\\1course2sem\\Laba3\\Laba \u21163\\Laba \u21163.cpp",
+              "RelativeToolTip": "Laba \u21163\\Laba \u21163.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T16:22:16.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

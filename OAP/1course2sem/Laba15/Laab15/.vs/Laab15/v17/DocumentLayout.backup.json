@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universety\\OAIP\\1course2sem\\Laba15\\Laab15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A59F6F9-2D85-4DAA-8975-196BBA9A2548}|Laab15\\Laab15.vcxproj|C:\\Universety\\OAIP\\1course2sem\\Laba15\\Laab15\\Laab15\\Laab15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A59F6F9-2D85-4DAA-8975-196BBA9A2548}|Laab15\\Laab15.vcxproj|solutionrelative:Laab15\\Laab15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laab15.cpp",
+              "DocumentMoniker": "C:\\Universety\\OAIP\\1course2sem\\Laba15\\Laab15\\Laab15\\Laab15.cpp",
+              "RelativeDocumentMoniker": "Laab15\\Laab15.cpp",
+              "ToolTip": "C:\\Universety\\OAIP\\1course2sem\\Laba15\\Laab15\\Laab15\\Laab15.cpp",
+              "RelativeToolTip": "Laab15\\Laab15.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T06:20:28.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

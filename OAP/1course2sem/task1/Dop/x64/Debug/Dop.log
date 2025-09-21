@@ -1,0 +1,107 @@
+﻿Сборка начата 18.04.2025 20:50:16.
+Уровень детализации журнала: Normal.     1>Проект "C:\Уник\OAIP\1course2sem\task1\Dop\Dop.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\Dop.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Dop.cpp
+         Dop.cpp
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(102,13): error C3861: accumulate: идентификатор не найден
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(103,20): error C2059: синтаксическая ошибка: ;
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(184,5): error C2065: vector: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(184,20): error C2059: синтаксическая ошибка: >
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(188,9): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(192,10): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(192,23): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(192,5): error C2672: "sort": не найдена соответствующая перегруженная функция
+             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(8248,19):
+             может быть "void std::sort(const _RanIt,const _RanIt)"
+             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(8240,19):
+             или       "void std::sort(const _RanIt,const _RanIt,_Pr)"
+                 C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(192,5):
+                 "void std::sort(const _RanIt,const _RanIt,_Pr)": ожидаются аргументы 3 — 2 предоставлены
+         
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(194,13): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(195,13): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(197,28): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(198,9): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(198,34): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(199,9): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(199,29): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(199,47): error C2065: vec: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,5): error C2065: map: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,9): error C2275: "std::string": ожидается выражение вместо типа
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,28): error C2065: groups: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,17): error C2275: "groupAverages::GroupData": ожидается выражение вместо типа
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(214,25): error C2065: groups: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(214,23): error C2530: gd: ссылки должны быть инициализированы
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(222,32): error C2065: groups: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(222,30): error C2059: синтаксическая ошибка: :
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(222,40): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(223,36): error C2065: group: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(255,5): error C2065: map: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(255,9): error C2275: "std::string": ожидается выражение вместо типа
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(255,25): error C2059: синтаксическая ошибка: >
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(259,22): error C3861: accumulate: идентификатор не найден
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(261,14): error C2065: bestInGroup: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(262,30): error C2065: bestInGroup: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(263,17): error C2065: bestInGroup: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(262,19): error C3861: accumulate: идентификатор не найден
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(264,13): error C2065: bestInGroup: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(269,35): error C2065: bestInGroup: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(269,33): error C2059: синтаксическая ошибка: :
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(269,48): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(270,36): error C2065: group: необъявленный идентификатор
+     1>C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(271,22): error C2065: student: необъявленный идентификатор
+     1>Сборка проекта "C:\Уник\OAIP\1course2sem\task1\Dop\Dop.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Уник\OAIP\1course2sem\task1\Dop\Dop.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(102,13): error C3861: accumulate: идентификатор не найден
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(103,20): error C2059: синтаксическая ошибка: ;
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(184,5): error C2065: vector: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(184,20): error C2059: синтаксическая ошибка: >
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(188,9): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(192,10): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(192,23): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(192,5): error C2672: "sort": не найдена соответствующая перегруженная функция
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(194,13): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(195,13): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(197,28): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(198,9): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(198,34): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(199,9): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(199,29): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(199,47): error C2065: vec: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,5): error C2065: map: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,9): error C2275: "std::string": ожидается выражение вместо типа
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,28): error C2065: groups: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(210,17): error C2275: "groupAverages::GroupData": ожидается выражение вместо типа
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(214,25): error C2065: groups: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(214,23): error C2530: gd: ссылки должны быть инициализированы
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(222,32): error C2065: groups: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(222,30): error C2059: синтаксическая ошибка: :
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(222,40): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(223,36): error C2065: group: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(255,5): error C2065: map: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(255,9): error C2275: "std::string": ожидается выражение вместо типа
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(255,25): error C2059: синтаксическая ошибка: >
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(259,22): error C3861: accumulate: идентификатор не найден
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(261,14): error C2065: bestInGroup: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(262,30): error C2065: bestInGroup: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(263,17): error C2065: bestInGroup: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(262,19): error C3861: accumulate: идентификатор не найден
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(264,13): error C2065: bestInGroup: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(269,35): error C2065: bestInGroup: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(269,33): error C2059: синтаксическая ошибка: :
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(269,48): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(270,36): error C2065: group: необъявленный идентификатор
+         C:\Уник\OAIP\1course2sem\task1\Dop\Dop.cpp(271,22): error C2065: student: необъявленный идентификатор
+
+    Предупреждений: 0
+    Ошибок: 40
+
+Прошло времени 00:00:01.63

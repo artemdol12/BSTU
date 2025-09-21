@@ -1,0 +1,8 @@
+﻿  Доп4(2).cpp
+C:\Уник\OAP\Дольников Лаб №4\Доп4(2)\Доп4(2).cpp(5,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Уник\OAP\Дольников Лаб №4\Доп4(2)\Доп4(2).cpp(9,15): warning C4101: s: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Доп4(2).vcxproj -> C:\Уник\OAP\Дольников Лаб №4\x64\Release\Доп4(2).exe
