@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u043D\u0438\u043A\\KPO\\Laba04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36131C89-FE2D-418A-9E9D-47E5E290E9A2}|laba04\\laba04.vcxproj|C:\\\u0423\u043D\u0438\u043A\\KPO\\Laba04\\laba04\\laba04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36131C89-FE2D-418A-9E9D-47E5E290E9A2}|laba04\\laba04.vcxproj|solutionrelative:laba04\\laba04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23CE714-C6B7-49CA-BCFB-8F1D2EA48F9B}|zadanie2\\zadanie2.vcxproj|C:\\\u0423\u043D\u0438\u043A\\KPO\\Laba04\\zadanie2\\zadanie2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C23CE714-C6B7-49CA-BCFB-8F1D2EA48F9B}|zadanie2\\zadanie2.vcxproj|solutionrelative:zadanie2\\zadanie2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zadanie2.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\KPO\\Laba04\\zadanie2\\zadanie2.cpp",
+              "RelativeDocumentMoniker": "zadanie2\\zadanie2.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\KPO\\Laba04\\zadanie2\\zadanie2.cpp",
+              "RelativeToolTip": "zadanie2\\zadanie2.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T16:03:50.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba04.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\KPO\\Laba04\\laba04\\laba04.cpp",
+              "RelativeDocumentMoniker": "laba04\\laba04.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\KPO\\Laba04\\laba04\\laba04.cpp",
+              "RelativeToolTip": "laba04\\laba04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T15:49:15.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

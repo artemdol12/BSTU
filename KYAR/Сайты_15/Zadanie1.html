@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задание 1</title>
+    <style>
+      .photos {
+        display:inline-block;
+        margin: 20px;
+      }
+      img{
+        height: 300px;
+        width: 250px;
+      }
+    </style>
+</head>
+<body>
+    <div class="photos">
+        <div class="photo1" onmouseover="show()" onmouseout="hide()">
+            <img src="img1/apple.jpg">
+            <div class="p1" style="width: 300px;">
+                <p>Я́блоко — сочный плод яблони, который употребляется в пищу в свежем и запеченном виде, служит сырьём в кулинарии и для приготовления напитков. Наибольшее распространение получила яблоня домашняя, реже выращивают яблоню сливолистную. Размер красных, зелёных, жёлтых или оранжевых шаровидных плодов 5—13 см в диаметре. Происходит из Центральной Азии, где до сих пор произрастает дикорастущий предок яблони домашней — яблоня Сиверса[1]. На сегодняшний день существует множество сортов этого вида яблони, произрастающих в различных климатических условиях. По времени созревания отличают летние, осенние и зимние сорта, более поздние сорта отличаются хорошей стойкостью.</p>
+            </div>
+        </div>
+        <div class="photo2" onclick="redborder()">
+            <img src="img2/Сливы.jpg">
+        </div>
+        <div class="photo3" onmouseover="change()" onmouseout="reset()">
+            <img src="img3/Мандарин.jpg">
+        </div>
+      </div>    
+      <script>
+    function show() {
+    let img = document.querySelector('.photo1 img');
+    let text = document.querySelector('.photo1 .p1');
+    img.style.display = 'none';
+    text.style.display = 'block';
+    }
+    function hide() {
+    let img = document.querySelector('.photo1 img');
+    let text = document.querySelector('.photo1 .p1');
+    img.style.display = 'block';
+    text.style.display = 'none';
+    }
+    function redborder() {
+    let border = document.querySelector('.photo2 img');
+    if (border.style.border) {
+        border.style.border = '';
+    } else {
+        border.style.border = '10px solid red';
+    }
+    }
+    function change() {
+    document.querySelector('.photo3 img').src ='img3/Мандарин.jpg';
+    }
+    function reset() {
+    document.querySelector('.photo3 img').src = 'img3/Абрикос.jpg';
+    }
+    </script>
+</body>
+</html>

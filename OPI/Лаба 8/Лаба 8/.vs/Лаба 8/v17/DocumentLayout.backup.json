@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF79C8CF-4ACA-4A65-8342-C08D29804192}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF79C8CF-4ACA-4A65-8342-C08D29804192}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.vcxproj|solutionrelative:\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF79C8CF-4ACA-4A65-8342-C08D29804192}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\1_kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF79C8CF-4ACA-4A65-8342-C08D29804192}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.vcxproj|solutionrelative:\u041B\u0430\u0431\u0430 8\\1_kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF79C8CF-4ACA-4A65-8342-C08D29804192}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.vcxproj|C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\2_kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF79C8CF-4ACA-4A65-8342-C08D29804192}|\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.vcxproj|solutionrelative:\u041B\u0430\u0431\u0430 8\\2_kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041B\u0430\u0431\u0430 8.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.cpp",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.cpp",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T09:19:03.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2_kod.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\2_kod.cpp",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 8\\2_kod.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\2_kod.cpp",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 8\\2_kod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T09:19:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1_kod.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\1_kod.cpp",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 8\\1_kod.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\OPI\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\\u041B\u0430\u0431\u0430 8\\1_kod.cpp",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 8\\1_kod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T09:18:58.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

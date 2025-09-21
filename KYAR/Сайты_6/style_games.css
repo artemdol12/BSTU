@@ -1,0 +1,16 @@
+figure {
+    padding: auto;
+    display: inline-block;
+    width: 24%;
+    margin: auto;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: auto;
+}
+figcaption{
+    color: black;
+}

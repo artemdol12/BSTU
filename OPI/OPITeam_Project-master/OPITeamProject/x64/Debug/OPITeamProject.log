@@ -1,0 +1,36 @@
+﻿  input.cpp
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\input.cpp(22,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\input.cpp(26,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  inputFromFile.cpp
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(38,30): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(38,30): warning C4244:         with
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(38,30): warning C4244:         [
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(38,30): warning C4244:             _Elem=char
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(38,30): warning C4244:         ]
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(38,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(42,31): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(42,31): warning C4244:         with
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(42,31): warning C4244:         [
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(42,31): warning C4244:             _Elem=char
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(42,31): warning C4244:         ]
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\inputFromFile.cpp(42,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  logo.cpp
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\logo.cpp(22,19): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+  main.cpp
+  MENU.cpp
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\MENU.cpp(30,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\MENU.cpp(31,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\MENU.cpp(80,19): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\MENU.cpp(120,37): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\MENU.cpp(120,49): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\MENU.cpp(121,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\MENU.cpp(121,28): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  parserIN.cpp
+  parserOUT.cpp
+  ranging.cpp
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\ranging.cpp(39,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Уник\OPI\OPITeam_Project-master\OPITeamProject\ranging.cpp(62,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Sorting.cpp
+  writeToFile.cpp
+  Создание кода...
+  OPITeamProject.vcxproj -> C:\Уник\OPI\OPITeam_Project-master\x64\Debug\OPITeamProject.exe

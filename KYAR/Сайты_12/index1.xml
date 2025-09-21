@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE store [
+<!ELEMENT store (namestore, products, nproduct*)>
+<!ELEMENT store (nstore)>
+<!ELEMENT nproduct (nname, nprice, ndescription)>
+<!ELEMENT nproduct (name, price, description)>
+<!ELEMENT nstore (#PCDATA)>
+<!ELEMENT nname (#PCDATA)>
+<!ELEMENT nprice (#PCDATA)>
+<!ELEMENT ndescription (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ENTITY nstore "Gamestore"> 
+<!ENTITY nname "Наименование"> 
+<!ENTITY nprice "Цена"> 
+<!ENTITY ndescription "Описание товара"> 
+]>
+<store>
+    <namestore>
+        <nstore>&nstore;</nstore>
+    </namestore>
+    <products>
+    <nproduct>
+        <nname>&nname;</nname>
+        <nprice>&nprice;</nprice>
+        <ndescription>&ndescription;</ndescription>
+    </nproduct>
+    <nproduct>
+        <name>PlayStation 5 (PS5) PRO Digital Edition 2024</name>
+        <price>3 350</price>
+        <description>PlayStation 5 - Play Has No Limits™ Молниеносная скорость загрузки благодаря сверхскоростному накопителю SSD, невероятный эффект погружения благодаря тактильной отдаче, адаптивным спусковым кнопкам и 3D-звуку, а также потрясающие игры нового поколения для PlayStation®</description>
+    </nproduct>
+    <nproduct>
+        <name>Экшен-камера Gopro Hero 13 Black</name>
+        <price>1 255</price>
+        <description>HERO13 Black выводит вашу фотографию и видеосъемку на новый уровень с объективами серии HB с технологией Auto-Detect. Эти объективы автоматически настраивают параметры в соответствии с вашим снимком, гарантируя, что вы идеально запечатлеете каждый момент.</description>
+    </nproduct>
+    <nproduct>
+        <name>Наушники Apple AirPods 2</name>
+        <price>399</price>
+        <description>AirPods — совершенно уникальные беспроводные наушники. Они легко подключаются к вашим устройствам, моментально готовы к работе и великолепно звучат.AirPods настраиваются в одно касание. Они оснащены специальными сенсорами, поэтому когда вы снимаете наушники, воспроизведение останавливается.</description>
+    </nproduct>
+    <nproduct>
+        <name>Умные часы Samsung Galaxy Watch Ultra 47 мм LTE SM-L705F (черный титан)</name>
+        <price>1 675</price>
+        <description>Заряжены на результат. Независимо от того, взбираетесь ли вы на скалы или совершаете многодневные походы, расширяйте границы своих возможностей, не беспокоясь об уровне заряда.</description>
+    </nproduct>
+    <nproduct>
+        <name>Очки виртуальной реальности Oculus Meta Quest 3S 256GB</name>
+        <price>1 690</price>
+        <description>Увидьте разницу. Meta Quest 3S предлагает те же возможности смешанной реальности, что и Quest 3, но с разрешением и цветопередачей в 4,5 раза выше по сравнению с Quest 2. Quest 3S включает в себя прокладку для очков, если они вам нужны.</description>
+    </nproduct>
+</products>
+</store>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flex-верстка</title>
+    <link href="style_main.css" rel="stylesheet">
+    <link href="style_link.css" rel="stylesheet" media="(max-width: 1280px)">
+    <link href="style_color.css" rel="stylesheet" media="(min-width:769px) and (max-width:1279px)">
+    <style>
+        @media(max-width: 500px) {
+            .f1{
+                color: red !important;
+                }
+        }
+    </style>
+</head>
+<body>
+            <div class="h2">
+                <h2>Flexbox-вёрстка</h2>
+            </div>
+            <main class="container">
+                <div class="menu_box">
+                    <input type="checkbox" id="burger">
+                    <label for="burger" class="menu_btn"><span></span></label>
+                    <label class="menu">Меню</label>
+                    <div class="menu_item">
+                        <label><a href="#div1">Video</a></label>
+                        <label><a href="#div2">Информация о Flexbox-вёрстке</a></label>
+                        <label><a href="#div3">Audio</a></label>
+                    </div>
+                </div>
+            <div id="div1" class="div1">
+                <video src="video/video_one.mp4" controls="controls" height="200px" width="300px"></video>
+                <video src="video/video_two.mp4" controls="controls" height="200px" width="300px"></video>
+                <video src="video/video_three.mp4" controls="controls" height="200px" width="300px"></video>
+            </div>
+            <div id="div2" class="div2">
+                <p class="p1">Flexbox-верстка — разметка макетов веб-страниц, которая 
+                    позволяет автоматически настраивать ширину элементов, 
+                    находящихся внутри flex-контейнера. Для применения данного 
+                    способа разметки следует учитывать разделение применяемых 
+                    свойств на свойства flex-контейнера и свойства flex-элемента.С помощью display: flex; осуществляется преобразование 
+                    HTML-элемента в flex-контейнер, а элементы находящийся внутри 
+                    него в flex-элементы. По умолчанию flex-элементы помещаются 
+                    друг за другом в одной строке. Свойство flex-flow позволяет 
+                    выбрать направление отображения элементов в контейнере, а 
+                    также указать их перенос на следующую строку. Первое значение 
+                    определяет направление, а второе перенос на следующую строку.Свойство flex-flow является сокращенной записью и содержит 
+                    значения свойств flex-direction и flex-wrap. Flex-элементы могут 
+                    размещаться в строке (значение row) или в колонке (значение column). 
+                    Перенос элементов осуществляется с помощью значения wrap.                
+                </p>
+            </div>
+            <div id="div3" class="div3">
+                <p></p>
+                <audio src="audio/one.mp3" controls preload="auto"></audio>
+                <p></p>
+                <audio src="audio/two.mp3" controls preload="auto"></audio>
+                <p></p>
+                <audio src="audio/three.mp3" controls preload="auto"></audio>
+            </div>
+            <div class="image-container">
+                <h2>Фрукты</h2>
+                <figure>
+                    <img src="img1/apple.jpg">
+                    <figcaption class="f1">Яблоко</figcaption>
+                </figure>
+                <figure>
+                    <img src="img1/limon.jpg">
+                    <figcaption class="f1">Лимон</figcaption>
+                </figure>  
+                <figure>
+                    <img src="img1/banan.jpg">
+                    <figcaption class="f1">Банан</figcaption>
+                </figure>    
+                <figure>
+                    <img src="img1/orange.jpg">
+                    <figcaption class="f1">Апельсин</figcaption>
+                </figure>    
+                <figure>
+                    <img src="img1/Мандарин.jpg">
+                    <figcaption class="f1">Мандарин</figcaption>
+                </figure>
+                <figure>
+                    <img src="img2/Ананас.jpg">
+                    <figcaption class="f1">Ананас</figcaption>
+                </figure>                                       
+                <figure>
+                    <img src="img2/Грейпфрукт.jpg">
+                    <figcaption class="f1">Грейпфрукт</figcaption>
+                </figure>   
+                <figure>
+                    <img src="img2/Манго.jpg">
+                    <figcaption class="f1">Манго</figcaption>
+                </figure>       
+            </div>
+    </main>
+</body>
+</html>

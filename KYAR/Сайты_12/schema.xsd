@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="store">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="namestore">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="nstore" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="products">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="nproduct">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="name" type="xs:string" />
+										<xs:element name="price" type="xs:string" />
+										<xs:element name="description" type="xs:string" />
+										<xs:element name="nname" type="xs:string" />
+										<xs:element name="nprice" type="xs:string" />
+										<xs:element name="ndescription" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

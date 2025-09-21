@@ -1,0 +1,19 @@
+h3, h2, h1 {
+    font-family: "Monotype Corsiva";
+    color: purple;
+}
+.site  {
+    color: red;
+    font-family: 'Times New Roman';
+    font-size: 18pt;
+}
+.perviy  {
+    color: yellow;
+    font-family: 'Times New Roman';
+    font-size: 20pt;
+}
+.stranica  {
+    color: green;
+    font-family: 'Times New Roman';
+    font-size: 22pt;
+}

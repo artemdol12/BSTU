@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u043D\u0438\u043A\\AISD\\laba02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C471A791-0CC7-44ED-B819-EF4227F4A8FB}|laba02\\laba02.vcxproj|C:\\\u0423\u043D\u0438\u043A\\AISD\\laba02\\laba02\\laba02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C471A791-0CC7-44ED-B819-EF4227F4A8FB}|laba02\\laba02.vcxproj|solutionrelative:laba02\\laba02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba02.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\AISD\\laba02\\laba02\\laba02.cpp",
+              "RelativeDocumentMoniker": "laba02\\laba02.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\AISD\\laba02\\laba02\\laba02.cpp",
+              "RelativeToolTip": "laba02\\laba02.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-02T18:38:54.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

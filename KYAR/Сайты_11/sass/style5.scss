@@ -1,0 +1,4 @@
+@import "varible";
+@function font-size-scale($font-size) {
+  @return $font-size * 0.6;
+}

@@ -1,0 +1,11 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%; }
+
+label, input, label, input {
+  width: 200px;
+  margin: 10px; }
+
+/*# sourceMappingURL=style4.css.map */

@@ -1,0 +1,6 @@
+    .image-container{
+        flex-flow: column;
+    }
+    img{
+        width: 100%;
+    }

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Skeleton</title>
+        <link rel="stylesheet" href="normalize.css">
+        <link rel="stylesheet" href="skeleton.css">
+        <style>
+            li{
+                display: inline-block; 
+                padding: 5px;
+            } 
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="two columns"><img src="img1/fit.jpg"></div>
+                <div class="six columns">
+                        <ul style="list-style-type: none;">
+                            <li><a href="HTML5.html">HTML5</a></td>
+                            <li><a href="CSS3.html">CSS3</a></td>
+                            <li><a href="FotoGallery.html">Photo gallery</a></td>
+                            <li><a href="HTML5_1.html">Grid-вёрстка 1</a></td>
+                            <li><a href="CSS3_1.html">Grid-вёрстка 2</a></td>
+                        </ul>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="three columns"><h4>Колонки (grid-template-columns)</h4></div>
+                <div class="three columns"><h4>Ряды (grid-template-rows)</h4></div>
+                <div class="three columns"><h4>Области (grid-template-areas)</h4></div>
+                <div class="three columns"><h4>Сокращённое свойство (grid-template)</h4></div>
+            </div>
+            <div class="row">
+                <div class="three columns">
+                    Чтобы создать колонки, нужно просто записать их размеры через пробел. 
+                    Размеры можно указывать в разных единицах измерения: пикселях, процентах, сантиметрах и так далее. 
+                    Однако бывает, что общая ширина всех колонок превышает 100%, и последняя колонка уезжает за пределы контейнера. 
+                    Чтобы избегать таких ситуаций, гридам придумали новую единицу измерения — фракцию (fr). 
+                </div>
+                <div class="three columns">
+                    Захотели мы, допустим, задать нашей табличке размеры строк. 
+                    Но вдруг видим, что размеры двух строчек повторяются — они занимают ровно 2fr. 
+                    Чтобы не писать дважды одно и то же, поместим их в функцию repeat. 
+                    Она принимает на вход два параметра — размер строки во фракциях и количество его повторений. 
+                    И полная, и краткая запись уместны — их можно чередовать в зависимости от контекста.
+                </div>
+                <div class="three columns">
+                    Одна из особенностей грид-разметки — возможность создавать области и гибко регулировать их размеры. 
+                    Чтобы создать область, объявим для каждого элемента в CSS-файле свойство grid-area — его параметром будет любое имя, какое захотите. 
+                    Каждое имя в grid-template-areas соответствует определённому объекту. 
+                    Одинаковые имена, стоящие рядом, собирают несколько ячеек в единое целое — то есть в грид-область.
+                </div>
+                <div class="three columns">
+                    Свойство grid-template позволяет в краткой форме определить или столбцы со строками, или целые области. 
+                    Фишка в том, что мы всего одной строчкой создаём целую таблицу — просто записываем через слеш количество рядов и столбцов. 
+                    Также сокращённая запись поддерживает объявление грид-областей, нужно только объявить свойство grid-area для каждого объекта.
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

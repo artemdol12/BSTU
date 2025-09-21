@@ -1,0 +1,39 @@
+body{
+    display: grid;
+    background: none;
+    grid-template-columns: 10% 70% 19%;
+    grid-template-rows: 20% 60% 20%;
+    height: 650px;
+    grid-template-areas:"nav header header"
+    "nav article aside"
+    "footer footer footer";
+    grid-gap: 5px;
+}
+nav{
+    grid-area: nav;
+}
+header{
+    grid-area: header;
+    text-align: center;
+    padding: 2%;
+    font-size: 40px;
+}
+article{
+    grid-area: article;
+    font-size: 20px;
+}
+aside{
+    grid-area: aside;
+    font-size: 17px;
+}
+footer{
+    grid-area: footer;
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+}
+nav>a{
+    display: block;
+    font-size: 20px;
+    text-align: left;
+}

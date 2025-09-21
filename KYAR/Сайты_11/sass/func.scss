@@ -1,0 +1,27 @@
+$base-heading-size: 50px;
+$scale-factor: 1.5;
+$hfbgcolor: #FF033E;
+$menubttncolor: #E52B50;
+$black: #000000;
+$white: #ffffff;
+
+@function font-size-scale($heading-size, $scale-factor) {
+  @return $heading-size / $scale-factor;
+}
+
+@function get-text-color($background-color) {
+  @if lightness($background-color) > 50 {
+    @return $black;
+  } @else {
+    @return $white;
+  }
+}
+
+@mixin styled-heading($heading-size, $scale-factor, $background-color) {
+  color: get-text-color($background-color);
+  font-size: $heading-size;
+
+  + div p {
+    font-size: font-size-scale($heading-size, $scale-factor);
+  }
+}

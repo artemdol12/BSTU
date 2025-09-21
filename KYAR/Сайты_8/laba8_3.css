@@ -1,0 +1,14 @@
+nav>ul>li {position: relative; border: 1px solid black; padding-top: 10px; padding-left: 5px; width: 150px; height: 30px; background-color: yellow;}
+ul {position: absolute; list-style-type: none;}
+li ul {visibility: hidden;}
+nav li:hover ul {display: block; visibility: visible;}
+nav li ul li {border: 2px dashed black; position: relative; right: 46px; top: 12px; background-color: #ffa07a;}
+a {text-decoration: none; color: black;}
+/* Ролловер ниже */
+.BSTU li {background-image: url(facultet.png); text-align: center; background-position: left top; background-repeat: no-repeat; width: 150px; height: 30px;} 
+.BSTU #IT:hover {background-position: 0 -30px;}
+.BSTU #PiM:hover {background-position: 0 -90px;}
+.BSTU #HTiT:hover {background-position: 0 -60px;}
+.BSTU>ul>li {border: 1px solid black; display: inline-block; width: 150px; margin-right: 20px;}
+.BSTU li:hover ul {display: block; visibility: visible;}
+.BSTU li ul li {border: 1px solid black; position: relative; right: 40.5px; top: 13px; width: 150px; background-image: none;}

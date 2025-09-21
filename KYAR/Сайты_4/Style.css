@@ -1,0 +1,50 @@
+body>div {
+    border: 6px groove;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    display: inline;
+}
+.R{
+    border-color: rgb(255 0 0);
+}
+.R+div{
+    border: 6px dashed rgb(0, 255, 0);
+}
+.B{
+    border: 6px dotted rgb(0, 0, 255);
+}
+.B+div{
+    border: 6px double rgb(0, 255, 255);
+}
+.M{
+    border: 6px ridge rgb(255, 0, 255);
+}
+.M+div{
+    border-color: rgb(255, 255, 0);
+}
+.K{
+    border: 6px   solid rgb(0, 0, 0);
+}
+span{
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    background-color: #FFA500;
+    border: 5px solid #FF4500 ;
+}
+.K+p{
+    width: 400px;
+    text-align: center;
+    border: 5px solid #FF7F50;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p2{
+    border: 5px solid red;
+    border-radius: 20px/40px;
+    box-shadow: inset 2px 2px 8px 8px rgba(0, 0, 0, .5);
+    overflow: auto;
+}
+.p2+p{
+    border: solid #FF6347;
+}

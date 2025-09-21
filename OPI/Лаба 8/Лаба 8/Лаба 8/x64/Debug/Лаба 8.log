@@ -1,0 +1,4 @@
+﻿  Лаба 8.cpp
+Лаба 8.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl getSum(int,int)" (?getSum@@YAHHH@Z) в функции main.
+Лаба 8.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl getMul(int,int)" (?getMul@@YAHHH@Z) в функции main.
+C:\Уник\OPI\Лаба 8\Лаба 8\x64\Debug\Лаба 8.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

@@ -1,0 +1,29 @@
+.grid{
+    display: grid;
+    border: none;
+    grid-template-columns: 47% 47% 5%;
+    grid-gap: 5px;
+    height: 500px;
+    width: auto;
+}
+.d1{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    text-align: center;
+    font-size: 40px;
+    grid-column: 3/4;
+    grid-row: 1/4;
+}
+.d3{
+    text-align: center;
+    font-size: 40px;
+    grid-row: 1/3;
+}
+.d2{
+    text-align: center;
+    font-size: 30px
+}
+.d4{
+    text-align: center;
+    font-size: 30px;
+}

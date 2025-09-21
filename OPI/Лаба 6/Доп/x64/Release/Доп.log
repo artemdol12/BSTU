@@ -1,0 +1,8 @@
+﻿  Доп.cpp
+C:\Уник\OPI\Лаба5\Доп\Доп.cpp(9,6): warning C4101: choice: неиспользованная локальная переменная
+  Создание кода
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Доп.vcxproj -> C:\Уник\OPI\Лаба5\x64\Release\Доп.exe

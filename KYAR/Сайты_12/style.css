@@ -1,0 +1,29 @@
+store {
+    display: table;
+    width: 1000px;
+    border-collapse: collapse;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+nproduct, product, store {
+    display: table-row;
+}
+
+nname, nprice, ndescription, name, price, description, store{
+    display: table-cell;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+nproduct {
+    font-weight: bold;
+    background-color: #f0f0f0;
+}
+nstore {
+    display: table-caption;
+    caption-side: top;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    background-color:#f0f0f0 ;
+}

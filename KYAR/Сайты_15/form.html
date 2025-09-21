@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Данные студента</title>
+    <link href="1.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Данные студента</h1>
+    <form id="studentForm">
+        <label for="studentName">Имя студента</label>
+        <input type="text" id="studentName" placeholder="обязательно заполнить"><br>
+        <label for="studentMiddleName">Отчество студента</label>
+        <input type="text" id="studentMiddleName" placeholder="обязательно заполнить"><br>
+        <label for="studentLastName">Фамилия студента</label>
+        <input type="text" id="studentLastName" placeholder="обязательно заполнить"><br>
+        <label for="email">Адрес почты</label>
+        <input type="text" id="email"><br>
+        <label for="phoneNumber">Контактный номер</label>
+        <input type="text" id="phoneNumber"><br>
+        <label for="socialNetworks">Какую социальную сеть вы используете?</label><br>
+        <input type="checkbox" id="VK">VK
+        <input type="checkbox" id="Facebook">Facebook
+        <input type="checkbox" id="Instagram">Instagram<br>
+        <label for="faculty">Факультет</label>
+        <select id="faculty">
+            <option value=""></option>
+            <option value="ФИТ">ФИТ</option>
+            <option value="ХТиТ">ХТиТ</option>
+            <option value="ПИМ">ПИМ</option>
+        </select><br>
+        <label for="group">Группа</label>
+        <select id="group">
+            <option value=""></option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+        </select><br>
+        <label for="course">Курс</label>
+        <select id="course">
+            <option value=""></option>
+            <option value="1">1 курс</option>
+            <option value="2">2 курс</option>
+            <option value="3">3 курс</option>
+            <option value="4">4 курс</option>
+        </select><br>
+        <input type="submit" onclick="event.preventDefault(); displayValues();">
+    </form>
+    <footer id="output"></footer>
+    <script>
+        function displayValues(){
+            var studentName = document.getElementById('studentName').value;
+            var studentMiddleName = document.getElementById('studentMiddleName').value;
+            var studentLastName = document.getElementById('studentLastName').value;
+            var email = document.getElementById('email').value;
+            var phoneNumber = document.getElementById('phoneNumber').value;
+            var socialNetworks = [];
+            if (document.getElementById('VK').checked) {
+                socialNetworks.push('VK');
+            }
+            if (document.getElementById('Facebook').checked) {
+                socialNetworks.push('Facebook');
+            }
+            if (document.getElementById('Instagram').checked) {
+                socialNetworks.push('Instagram');
+            }
+            var faculty = document.getElementById('faculty').value;
+            var group = document.getElementById('group').value;
+            var course = document.getElementById('course').value;
+            var output = 'Имя студента: ' + studentName + ', Отчество студента: ' + studentMiddleName + ', Фамилия студента: ' + studentLastName + ', Адрес почты: ' + email + ', Контактный номер: ' + phoneNumber + ', Социальные сети студента: ' + socialNetworks.join(', ') + ', Факультет: ' + faculty + ', Группа: ' + group + ', Курс: ' + course;
+            document.getElementById('output').innerText = output;
+        }
+    </script>
+</body>
+</html>

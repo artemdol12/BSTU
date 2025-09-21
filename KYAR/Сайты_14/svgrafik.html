@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задание 1-3</title>
+    <style>
+        .elka{
+            background: url(Untitled.svg);
+            background-repeat: no-repeat;
+            background-position: center;
+            margin-right: 875px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <svg width="600" height="600" xmlns="http://www.w3.org/2000/svg" >
+        <path id="curve" d="M10 80 Q 95 10 180 80 300" fill="none" stroke="black"/>
+        <text font-size="36px" fill="green">
+        <textPath xlink:href="#curve" startOffset="55%" text-anchor="middle">Lorem ipsum</textPath>
+        </text>
+        <circle cx="50" cy="150" r="30" fill="blue" />
+        <rect x="95" y="125" width="75" height="55" fill="red" />
+        <ellipse cx="240" cy="155" rx="60" ry="30" fill="green" />
+        <polygon points="320,190 380,120 440,190" fill="yellow" />
+        <!-- <polyline points="0 200,230 200,180 230,500 230" fill="none" stroke="purple" stroke-width="2" />
+        <polygon points="160,350 200,300 240,350" fill="green" />
+        <polygon points="160,320 200,270 240,320" fill="green" />
+        <rect x="190" y="350" width="20" height="20" fill="brown" /> -->
+    </svg>
+    <div class="elka">
+    <svg width="600" height="500" xmlns="http://www.w3.org/2000/svg">
+        <path d="M 300 245 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0" fill="red">
+            <animate attributeName="fill" from="red" to="orange" dur="2s" fill="freeze" />
+        </path>
+        <path d="M 305 290 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0" fill="blue" >
+            <animate attributeName="fill" from="blue" to="purple" dur="2s" fill="freeze" />
+        </path>
+        <path d="M 280 245 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0" fill="yellow">
+            <animate attributeName="fill" from="yellow" to="blue" dur="2s" fill="freeze" />
+        </path>
+        <path d="M 275 290 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0" fill="orange">
+            <animate attributeName="fill" from="orange" to="red" dur="2s" fill="freeze" />
+        </path>
+        <path d="M295 190 L300 200 L310 200 L302 208 L305 217 L295 213 L285 217 L288 207 L280 200 L290 200 Z" fill="yellow">
+            <animate attributeName="fill" from="yellow" to="gold" dur="2s" fill="freeze" />
+        </path>
+    </svg>
+    </div>
+</body>
+</html>

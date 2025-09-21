@@ -1,0 +1,33 @@
+body p {
+  color: blue;
+  font-family: Arial;
+  size: 16pt;
+}
+body h1, body h2, body h3 {
+  text-align: center;
+  color: blueviolet;
+  font-family: cursive;
+}
+body table {
+  width: 600px;
+  border: 1px solid black;
+}
+body .pnk1 {
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18pt;
+}
+body .pnk2 {
+  color: yellow;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20pt;
+}
+body .pnk3 {
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22pt;
+}
+
+table tr, table td {
+  border: 1px solid black;
+}/*# sourceMappingURL=1.css.map */

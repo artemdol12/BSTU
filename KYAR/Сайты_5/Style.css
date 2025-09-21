@@ -1,0 +1,23 @@
+td:nth-child(1n+2){
+    color: white;
+}
+tr, td{
+    empty-cells: hide;
+    border: 1px ridge black;  
+}
+td:nth-child(4n+2){
+    background-color: darkblue;
+}
+#head{
+    background-color: #00BFFF;
+}
+td:nth-child(4n+3){
+    background-color: purple;
+}
+td:nth-child(4n+4){
+    background-color: green;
+}
+caption{
+    font-size: 1.2em;
+    text-align: center;
+}

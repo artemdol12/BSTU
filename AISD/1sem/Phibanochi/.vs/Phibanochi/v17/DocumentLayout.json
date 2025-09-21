@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u043D\u0438\u043A\\AISD\\Phibanochi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAC491E-8356-401F-A07B-C68A1DADA191}|laba1\\laba1.vcxproj|C:\\\u0423\u043D\u0438\u043A\\AISD\\Phibanochi\\laba1\\laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFAC491E-8356-401F-A07B-C68A1DADA191}|laba1\\laba1.vcxproj|solutionrelative:laba1\\laba1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sasha\\Downloads\\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\\lab_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_01.cpp",
+              "DocumentMoniker": "C:\\Users\\sasha\\Downloads\\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\\lab_01.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\sasha\\Downloads\\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\\lab_01.cpp",
+              "ToolTip": "C:\\Users\\sasha\\Downloads\\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\\lab_01.cpp",
+              "RelativeToolTip": "..\\..\\..\\Users\\sasha\\Downloads\\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\\lab_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T05:41:22.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba1.cpp",
+              "DocumentMoniker": "C:\\\u0423\u043D\u0438\u043A\\AISD\\Phibanochi\\laba1\\laba1.cpp",
+              "RelativeDocumentMoniker": "laba1\\laba1.cpp",
+              "ToolTip": "C:\\\u0423\u043D\u0438\u043A\\AISD\\Phibanochi\\laba1\\laba1.cpp",
+              "RelativeToolTip": "laba1\\laba1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T05:38:49.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

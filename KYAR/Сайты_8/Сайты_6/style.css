@@ -1,0 +1,30 @@
+table{
+    border: 5px double;
+}
+ol li{
+    list-style-type: none;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-image: url(img/foto4.png);
+    background-position: 0 4px;
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-image: url(img/facultet.png);
+}
+.img1{
+    float: left;
+    margin-right: 10px;
+}
+section p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-indent: 15px;
+}
+.img2{
+    float: right;
+}
